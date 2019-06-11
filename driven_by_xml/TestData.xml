@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bookList type="technology">
+    <book>
+        <name>人工智能改变未来</name>
+        <author>野村直之</author>
+    </book>
+    <book>
+        <name>能力陷阱</name>
+        <author>埃米尼亚</author>
+    </book>
+    <book>
+        <name>暗时间</name>
+        <author>刘未鹏</author>
+    </book>
+</bookList>
